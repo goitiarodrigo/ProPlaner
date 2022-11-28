@@ -14,7 +14,7 @@ For exec the tests (this will open your browser)
 ```javascript
 npm test
 ```
-The components that were tested are NavBar, Dasboard and Login
+The components that were tested are NavBar, Dashboard and Login
 
 For see the project in your browser
 ```javascript
