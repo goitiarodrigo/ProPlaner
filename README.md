@@ -1,5 +1,7 @@
 # ProPlaner
 
+![image](https://res.cloudinary.com/mukeniola/image/upload/v1669651303/witk0vc48a59gwohdwrd.png)
+
 I worked under Vite as build tool
 
 ### Installation 🔧
