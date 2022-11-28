@@ -30,6 +30,7 @@ const Input = ({handleOnChange, handleKeyPress, hasError, type, name, endAdornme
             <BorderBottomInput
                 onChange={handleOnChange}
                 onKeyDown={handleKeyPress}
+                autoComplete='off'
                 name={name}
                 type={type}
                 inputProps={inputProps}
