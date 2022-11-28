@@ -1,0 +1,43 @@
+div.loader_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.19), rgba(0, 0, 0, 0.215));
+    z-index: 3;
+}
+
+@keyframes ldio-z76lefwfpx {
+    0% { transform: rotate(0deg) }
+    50% { transform: rotate(180deg) }
+    100% { transform: rotate(360deg) }
+  }
+  .ldio-z76lefwfpx div {
+    z-index: 4;
+    position: absolute;
+    animation: ldio-z76lefwfpx 1s linear infinite;
+    width: 160px;
+    height: 160px;
+    top: 20px;
+    left: 20px;
+    border-radius: 50%;
+    box-shadow: 0 4px 0 0 #327b8a;
+    transform-origin: 80px 82px;
+  }
+  .loadingio-spinner-eclipse-eet9hgo75xu {
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    overflow: hidden;
+    
+  }
+  .ldio-z76lefwfpx {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    transform: translateZ(0) scale(1);
+    backface-visibility: hidden;
+    transform-origin: 0 0; /* see note above */
+  }
+  .ldio-z76lefwfpx div { box-sizing: content-box; }

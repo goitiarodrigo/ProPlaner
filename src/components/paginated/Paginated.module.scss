@@ -1,0 +1,20 @@
+.paginated_container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100%;
+    button {
+        background-color: transparent;
+        border: none;
+        cursor: pointer;
+        transition: 200ms;
+        margin-left: 1rem;
+        &:hover {
+            transform: scale(110%);
+            transition: 200ms;
+        }
+        &:active {
+            transform: scale(90%);
+        }
+    }
+}
